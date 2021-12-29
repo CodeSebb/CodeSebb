@@ -16,7 +16,7 @@
 🐶 I am a proud dog dad of a lovely 9 year old terrier named Sadie. <br>
 
 <h2> Follow Me: </h2>
-🔗www.linkedin.com/in/sebbsanchez
+🔗<a href="www.linkedin.com/in/sebbsanchez"> Sebastian's LinkedIn Profile</a>
 
 
 
