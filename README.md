@@ -7,7 +7,7 @@
 ✋🏽 My pronouns are He/Him/His <br>
 
 <h2> Current Projects: </h2>
-1️⃣ My Personal Website (coming soon) <br>
+1️⃣ My Personal Website! <br>
 2️⃣ GMMRDL Scheduling Tool (coming soon) <br>
 
 <h2> Fun Facts: </h2>
